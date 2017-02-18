@@ -79,7 +79,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
+<<<<<<< HEAD
                     Task List Local Remote
+=======
+                    Laravel
+>>>>>>> ac562e986c0394c73b9ed1941d791657c814124c
                 </div>
 
                 <div class="links">
